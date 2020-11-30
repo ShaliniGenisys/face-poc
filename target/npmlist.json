@@ -1,0 +1,1 @@
+{"version":"0.0.1","name":"FaceDetectionPOC","dependencies":{"react-native-camera":{"version":"3.40.0"},"react-native-vector-icons":{"version":"7.1.0"},"react-native":{"version":"0.63.3"},"react":{"version":"16.13.1"}}}
